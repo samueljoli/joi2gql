@@ -3,7 +3,7 @@
 
 Easily convert [Joi](https://github.com/hapijs/joi/) schemas into GraphQL data types.
 
-Lead Mainter: [Samuel Joli](https://github.com/Samueljoli)
+Lead Maintainer: [Samuel Joli](https://github.com/Samueljoli)
 
 ## Installation 
 ```Text
